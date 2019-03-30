@@ -1,21 +1,4 @@
 title: All about me!
-description: >- # this means to ignore newlines until "baseurl:"
-  Sergio Sanchez
-
+description: Sergio Sanchez
 repository: snchzsrg/snchzsrg.github.io
-
-# Build settings
-markdown: kramdown
 theme: jekyll-theme-tactile
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
