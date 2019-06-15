@@ -1,4 +1,47 @@
-title: All about me!
-description: Sergio Sanchez
+# Site
 repository: snchzsrg/snchzsrg.github.io
-theme: jekyll-theme-tactile
+# favicon: images/favicon.ico
+
+# Personal info
+name: Sergio Sanchez
+title: Software Engineer, Product Manager, People Person
+email: snchz.srg.dev@gmail.com
+website: www.github.com/snchzsrg
+
+# Social links
+github_username: snchzsrg
+linkedin_username: snchzsrg
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: |
+  Hello! My name is Sergio. In my dayjob, I'm primarily a software engineer (mostly C++), am deeply involved in project planning for the products my team owns, and lead an organization focused on networking and professional development within Intel. I love working with people to figure out how to best solve their problems, especially if the solution involves software.
+  
+  I spend weekends taking pictures, playing board games, and reading up on whatever catches my interest at the time.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+# more_content: |
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

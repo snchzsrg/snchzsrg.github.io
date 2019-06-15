@@ -1,0 +1,10 @@
+- layout: top-middle
+  name: Jira Swimlane Shuffler
+  link: github.com/snchzsrg/JiraSwimlaneShuffler
+  github: snchzsrg/JiraSwimlaneShuffler
+  quote: >
+    Sometimes you just gotta spice sprint stand-ups up with a little randomness.
+  description: |
+    I use Jira at my dayjob on a daily basis, and the members of the team with a last name nearing the end of the alphabet were always tired of having to go last. It seemed like a match made in heaven.
+
+    The extension works on Firefox and Chrome. It shuffles the assignee swimlanes on the sprint board, and it brightens up the day of the Williamsons, Youngs, or Zimmermans of the world. 

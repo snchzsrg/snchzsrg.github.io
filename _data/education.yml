@@ -1,0 +1,12 @@
+- layout: left
+  name: UC Santa Barbara
+  dates: 2007-2011
+  qualification: Computer Engineering, BS
+  description: | # this will include new lines to allow paragraphs
+    During my time at UC Santa Barbara, I took a variety of classes offered between the department of Computer Science and the department of Electrical Engineering. My team's capstone project was called Kwik-E-Kart, where we designed a printed circuit board that integrated Bluetooth and an RFID reader to read tags on products to know when an item had been inserted into or removed from the basket of a shopping cart. We designed an Android app to connect to the device via Bluetooth to keep a digital receipt of those items. We won the award for UCSB Best Computer Enginering Capstone Project of 2011.
+    
+    Outside of coursework, I participated in undergraduate research in a robotics lab through the department of Mechanical Engineering, where I reverse-engineered the electrical inputs to a motor control system for a motorized wheelchair.
+
+    I was the President of the UCSB chapter of the Society for the Advancement of Chicanos and Native Americans in Science (SACNAS) and participated on the board of Engineering Student Council.
+
+    My success in my coursework and as an on-campus leader led me to being selected as the 2011 Student Commencement Speaker for the College of Engineering.

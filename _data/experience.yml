@@ -1,0 +1,28 @@
+- layout: left
+  company: Intel Corporation
+  jobs:
+    - title: Graphics Software Engineer
+      dates: September 2013 - Present
+    - title: Hardware Application Engineer
+      dates: September 2011 - August 2013
+  description: |
+    I have had the opportunity to wear many hats in my time at Intel. I started as a Hardware Application Engineer, working with Intel's major customers to integrate and debug our chipsets on their motherboards, specifically HP Enterprise. This involved both debugging in a laboratory and writing lots of external documentation. I found that some of our documentation could be more easily understood using software tools, so I designed them. I found I loved writing software so much, I decided to trasnition to a full time software position.
+
+    As a Graphics Software Engineer, I started maintaining and improving a validation graphics driver used to simulate synthetic content on a graphics simulator. Again, I found areas that could be improved or automated, like generating code directly from our specifications, tagging blocks of code to coordinate turning new features on and off between our toolchain, or using software to bridge different databases containing bugs and features into a unified backlog.
+
+    I also participate in Agile as a Scrum Master for multiple teams in my organization and as the Product Owner for my team of 12 developers that work on multiple tools that support an ever-growing number of products in flight.
+
+- layout: left
+  company: California Nanosystems Institute
+  job_title: Student Program Coordinator
+  dates: June 2011 - August 2011
+  website: https://sims-csep.cnsi.ucsb.edu/
+  description: I coordinated the Summer Institute of Mathematics and Science, where 24 incoming freshmen spent two weeks at UC Santa Barbara engaging in an intensive schedule featuring academic preparation, professional development, educational presentations, and research projects. It was a great way for me to give back becuase SIMS was a great resource for me when I was an incoming freshman.
+
+- layout: left
+  company: The Boeing Company
+  jobs:
+    - title: Information Technology Intern
+      dates: June 2010 - September 2010
+    - dates: June 2009 - September 2009
+  description: I spent the first summer testing thin client PCs for deployment to the manufacturing floor. I spent the second summer writing an error parser to generate reports from fuel flow simulations for the 737 program. The coolest part of working at Boeing was definitely getting to eat lunch while watching an assembly line assemble Boeing 737s.
